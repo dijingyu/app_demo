@@ -42,7 +42,7 @@ public class LoginActivity extends BaseActivity<EmptyP,EmptyV> implements EmptyV
             public void onClick(View view) {
                 Toast.makeText(LoginActivity.this, "用户协议", Toast.LENGTH_SHORT).show();
             }
-
+            //123
             @Override
             public void updateDrawState(TextPaint ds) {
                 ds.setColor(ContextCompat.getColor(LoginActivity.this, R.color.service));//设置颜色
