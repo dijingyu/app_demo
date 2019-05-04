@@ -1,22 +1,16 @@
 package com.example.dijingyu.app_demo.ui;
 
 import android.annotation.SuppressLint;
-import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.dijingyu.app_demo.R;
-import com.example.dijingyu.app_demo.widget.CodeView;
 
-import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -52,7 +46,6 @@ public class PhoneActivity extends AppCompatActivity implements View.OnClickList
     };
     private Timer mTimer;
     private TextView mTv;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
