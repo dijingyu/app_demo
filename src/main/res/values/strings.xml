@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App_demo</string>
+    <string name="my">我的</string>
+    <string name="answers">我的问答</string>
+    <string name="collect">我的收藏</string>
+    <string name="journey">已购旅程</string>
+    <string name="service">联系客服</string>
+    <string name="versions">检测最新版本</string>
+    <string name="speak">赞扬 / 吐槽</string>
+    <string name="name">Asyllabear</string>
+    <string name="title">厉害厉害厉害了我的哥</string>
+    <string name="personage_show">个人信息</string>
+    <string name="sex">男</string>
+    <string name="personage">Salud</string>
+    <string name="unknow_error">未知错误</string>
+    <string name="conn_error">连接失败</string>
+    <string name="conn_timeout">连接超时</string>
+    <string name="net_error">网络错误</string>
+    <string name="parse_error">解析异常</string>
+    <string name="net_unused">当前网络不可用</string>
+    <string name="login_text">你好，为了获取更好的服务</string>
+    <string name="login_title">请登录自由旅行</string>
+    <string name="login_or">or</string>
+    <string name="login_service">登录或注册即同意自由旅行用户协议</string>
+    <string name="login_weChat">微信登录</string>
+    <string name="num_phone">+86</string>
+    <string name="login_bt">发送验证码</string>
+    <string name="login_ed_hint">请输入手机号码</string>
+    <string name="verify">请输入验证码</string>
+</resources>
